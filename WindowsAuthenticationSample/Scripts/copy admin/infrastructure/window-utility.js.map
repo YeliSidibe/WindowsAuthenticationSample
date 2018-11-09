@@ -1,0 +1,1 @@
+{"version":3,"file":"window-utility.js","sourceRoot":"","sources":["window-utility.ts"],"names":[],"mappings":";;;IACA,MAAqB,UAAU;QAC3B,MAAM,CAAC,uBAAuB,CAAC,IAAY;YACvC,IAAI,SAAS,GAAG,IAAI,eAAe,CAAC,MAAM,CAAC,QAAQ,CAAC,MAAM,CAAC,CAAC;YAC5D,OAAO,SAAS,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC;QAC/B,CAAC;KACJ;IALD,6BAKC"}

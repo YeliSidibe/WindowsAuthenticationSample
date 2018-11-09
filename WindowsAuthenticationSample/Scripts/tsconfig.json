@@ -1,0 +1,11 @@
+﻿{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": true,
+    "module": "amd",
+    "target": "es6"
+  },
+  "include": [ "./Scripts/app/**/*", "./Scripts/typings/typings.d.ts" ],
+  "compileOnSave": true
+}
